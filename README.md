@@ -1,7 +1,7 @@
-INF3173-231 TP3
+Image Process using multi thread
 =======================================
 
-## Dépendances
+## Dependencies
 
 Ubuntu:
 
