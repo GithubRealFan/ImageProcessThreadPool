@@ -10,9 +10,9 @@ Ubuntu:
 ```
 
 
-Il est également recommandé d'utiliser un IDE, tel que QtCreator, pour programmer la solution.
+It is also recommended to use an IDE, such as QtCreator, to program the solution. 
 
-Compilation manuelle:
+Manual compilation:
 
 ```
 cmake -S . -B build
