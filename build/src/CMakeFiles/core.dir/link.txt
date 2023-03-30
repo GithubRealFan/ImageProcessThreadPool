@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libcore.a  CMakeFiles/core.dir/barrier.c.o CMakeFiles/core.dir/filter.c.o CMakeFiles/core.dir/image.c.o CMakeFiles/core.dir/threadpool.c.o CMakeFiles/core.dir/list.c.o CMakeFiles/core.dir/processing.c.o CMakeFiles/core.dir/utils.c.o
+/usr/bin/ranlib ../lib/libcore.a

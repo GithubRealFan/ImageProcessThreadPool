@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/test_list.dir/test_list.c.o CMakeFiles/test_list.dir/simpletest.c.o  -o ../bin/test_list  ../lib/libcore.a -pthread -lpng 

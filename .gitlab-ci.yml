@@ -1,0 +1,13 @@
+image: gcc:11
+
+stages:
+  - test
+
+test:
+  stage: test
+  script:
+    - apt update && apt install -y cmake libpng-dev ninja-build
+    - cmake -G Ninja -S . -B build
+    - cd build
+    - ninja
+    - ninja test

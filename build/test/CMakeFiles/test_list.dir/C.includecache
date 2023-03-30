@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/list.h
+stdbool.h
+-
+stddef.h
+-
+
+/home/axiom88/Documents/myfolder/inf3173-231-tp3-23.1.1-Source2/inf3173-231-tp3-23.1.1-Source/test/simpletest.c
+stdarg.h
+-
+stdlib.h
+-
+simpletest.h
+/home/axiom88/Documents/myfolder/inf3173-231-tp3-23.1.1-Source2/inf3173-231-tp3-23.1.1-Source/test/simpletest.h
+
+/home/axiom88/Documents/myfolder/inf3173-231-tp3-23.1.1-Source2/inf3173-231-tp3-23.1.1-Source/test/simpletest.h
+stdio.h
+-
+
+/home/axiom88/Documents/myfolder/inf3173-231-tp3-23.1.1-Source2/inf3173-231-tp3-23.1.1-Source/test/test_list.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+list.h
+/home/axiom88/Documents/myfolder/inf3173-231-tp3-23.1.1-Source2/inf3173-231-tp3-23.1.1-Source/test/list.h
+simpletest.h
+/home/axiom88/Documents/myfolder/inf3173-231-tp3-23.1.1-Source2/inf3173-231-tp3-23.1.1-Source/test/simpletest.h
+

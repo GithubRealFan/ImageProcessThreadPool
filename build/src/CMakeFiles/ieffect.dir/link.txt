@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/ieffect.dir/ieffect.c.o  -o ../bin/ieffect  ../lib/libcore.a -pthread -lpng 
