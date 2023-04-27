@@ -1,4 +1,4 @@
-Image Process using multi thread
+Image Process using thread pool
 =======================================
 
 ## Dependencies
